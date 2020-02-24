@@ -1,1 +1,7 @@
-"# ц©хур╩╩╜" 
+# Ф╞▐Ф≈╔Д╦─Г■╩
+
+## Day1
+![miffy](./miffy.png)
+
+## Day2
+![miffy2](./miffy2.png)
