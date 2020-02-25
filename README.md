@@ -5,3 +5,6 @@
 
 ## Day2
 ![miffy2](./miffy2.png)
+
+## Day3
+![miffy3](./miffy3.png)
