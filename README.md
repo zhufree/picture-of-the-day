@@ -17,6 +17,8 @@
 ## Day6
 ![妙蛙种子（描线）](./妙蛙种子.png)
 ## Day7
-![妙蛙种子（描线）](./miffy6.png)
+![miffy6](./miffy6.png)
 ## Day8
-![妙蛙种子（描线）](./miffy7.png)
+![miffy7](./miffy7.png)
+## Day9
+![miffy8](./miffy8.png)
